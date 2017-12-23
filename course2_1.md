@@ -7,7 +7,7 @@
 	-	if train error = 15%, val error = 30% --> **high bias and variance**	
 -	Underfitted model has high bias, overfitted model has high variance
 -	High bias and high variance corresponds to models which underfit at some points and overfit at some.
--	Low bias and low variance are the desirable charcateristics of the ideal model
+-	Low bias and low variance are the desirable charcateristics of ideal model
 ####	High bias (Underfitting):
 -	Add more layers (make the model complex)
 -	Train longer
